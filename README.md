@@ -1,17 +1,17 @@
-# Itera
+# ThumbsDown
 
 **Intelligent observability layer for human-AI conversations**
 
 ---
 
 ## ⚠️ Draft Notice
-This README is a temporary draft until the publication of the Itera methodology paper. Itera is an open project—suggestions, contributions, and collaborations are very welcome.
+This README is a temporary draft until the publication of the ThumbsDown methodology paper. ThumbsDown is an open project—suggestions, contributions, and collaborations are very welcome.
 
 ---
 
-## What is Itera?
+## What is ThumbsDown?
 
-Itera is an open-source observability layer for conversations between humans and LLMs or agents. It addresses a critical problem in AI feedback systems: traditional approaches capture biased samples, confuse correct responses with user error, and poison datasets—degrading agent quality over time.
+ThumbsDown is an open-source observability layer for conversations between humans and LLMs or agents. It addresses a critical problem in AI feedback systems: traditional approaches capture biased samples, confuse correct responses with user error, and poison datasets—degrading agent quality over time.
 
 ## The Problem
 
@@ -24,7 +24,7 @@ Traditional RLHF (Reinforcement Learning from Human Feedback) has limitations:
 
 ## Solution
 
-Itera introduces an intelligent observability layer that:
+ThumbsDown introduces an intelligent observability layer that:
 
 1. **Analyzes sentiment** in user responses automatically
 2. **Classifies feedback** into a structured dataset
@@ -37,12 +37,12 @@ Itera introduces an intelligent observability layer that:
 
 ## Installation
 ```bash
-pip install itera
+pip install ThumbsDown
 ```
 
 ## Quick Start
 ```python
-from itera import ObservabilityLayer
+from ThumbsDown import ObservabilityLayer
 
 # Initialize the layer
 observer = ObservabilityLayer(
@@ -142,6 +142,6 @@ MIT License with Ethical Use Clause - This package must be used exclusively for 
 ## Contact
 
 Questions? Ideas? Want to collaborate?
-- GitHub Issues: [github.com/yourusername/itera/issues]
+- GitHub Issues: [github.com/yourusername/ThumbsDown/issues]
 - Email: [your-email]
 - Documentation: [docs link]
