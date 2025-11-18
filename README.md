@@ -1,6 +1,6 @@
 # ThumbsDown
 
-<img width="1024" height="1024" alt="ChatGPT Image Nov 18, 2025, 03_40_45 PM" src="https://github.com/user-attachments/assets/78f81fb2-e327-4372-9f07-d4acd26bf285" />
+<img width="100" height="100" alt="ThumbsDownLogo" src="https://github.com/user-attachments/assets/78f81fb2-e327-4372-9f07-d4acd26bf285" />
 
 **Intelligent observability layer for human-AI conversations**
 
